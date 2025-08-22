@@ -159,7 +159,8 @@ PHP com extensões populares
 
 <hr>
 
-# No seu terminal do WSL, digite:
+# Gerando chave ssh para clonar o Projeto:
+No seu terminal do WSL, digite:
 
     ssh-keygen -t ed25519 -C "seu_email_do_github@example.com"
 
@@ -216,3 +217,6 @@ Rode:
 Se tudo deu certo, vai aparecer:
 
     Hi NOME_DE_USUARIO! You've successfully authenticated...
+
+# Clone o projeto:
+    git clone git@github.com:NicholasGDev/WINX.git 
