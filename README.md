@@ -19,7 +19,7 @@
 <br>
 <b>Laravel;</b>
 <br>
-<b>Vue.js;</b>
+<b>React;</b>
 <br>
 <b>ReactNative;</b>
 <hr>
