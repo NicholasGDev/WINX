@@ -23,7 +23,6 @@
 <br>
 <b>ReactNative;</b>
 <hr>
-<hr>
 
 # 🐧 Tutorial de Instalação e Configuração do WSL com Ubuntu
 1. Windows Subsystem for Linux (WSL)
