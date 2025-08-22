@@ -23,8 +23,6 @@
 <br>
 <b>ReactNative;</b>
 <hr>
-<h1>Configurando o Git</h1>
-🔑 Gerando a chave SSH
 <hr>
 
 # 🐧 Tutorial de Instalação e Configuração do WSL com Ubuntu
@@ -104,6 +102,7 @@ Instale o Git:
 
     apt install -y git
     git --version
+    git config --global user.name "Seu Nome" && git config --global user.email "seu.email@exemplo.com"
 
 # 🟩 Instalar Node.js (via NVM)
 
@@ -159,7 +158,7 @@ PHP com extensões populares
 
 <hr>
 
-# Gerando chave ssh para clonar o Projeto:
+# 🔑 Gerando a chave SSH para clonar o Projeto:
 No seu terminal do WSL, digite:
 
     ssh-keygen -t ed25519 -C "seu_email_do_github@example.com"
