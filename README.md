@@ -5,7 +5,7 @@
 <br>
 <hr>
 <h1>Linguagens utilizadas</h1>
-<b>Python;</b>
+<b>Java;</b>
 <br>
 <b>PHP;</b>
 <br>
@@ -13,15 +13,13 @@
 <br>
 <br>
 <h1>Frameworks utilizadas</h1>
-<b>Django;</b>
-<br>
-<b>Tkinter;</b>
+<b>JDK/SPINGBOOT/AndroidStudio;</b>
 <br>
 <b>Laravel;</b>
 <br>
 <b>React;</b>
 <br>
-<b>ReactNative;</b>
+<b>Mobile -> Java;</b>
 <hr>
 
 # 🐧 Tutorial de Instalação e Configuração do WSL com Ubuntu
@@ -120,14 +118,6 @@ Instale a versão LTS do Node.js:
     node -v
     npm -v
 
-# 🐍 Instalar Python
-
-Instale o Python + Pip:
-
-    apt install -y python3 python3-pip
-    python3 --version
-    pip3 --version
-
 # 🐘 Instalar PHP
 
 Instale o PHP e extensões comuns:
@@ -150,8 +140,6 @@ Docker
 Git
 
 Node.js (via NVM)
-
-Python + Pip
 
 PHP com extensões populares
 
