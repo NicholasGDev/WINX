@@ -1,5 +1,5 @@
 # WINXProject - NGdevelopment
-- Software Corporativo com objetivo de atender comércios com pontos de vendas, interface web para configuração de promções, devolução e controle de estoque.
+- Software Corporativo com objetivo de atender comércios com pontos de vendas, interface web para configuração de promoções, devolução e controle de estoque.
 - Oferecer confiabilidade, acessibilidade e redundança, garantindo a integridade dos dados e perfomance para o dia a dia.
 - Interface customizavél de acordo com o cliente.
 <br>
